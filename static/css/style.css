@@ -1,0 +1,74 @@
+body {
+  font-family: 'Roboto',Helvetica,Arial,sans-serif !important;
+}
+header {
+  margin: 0px;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  background: url('../img/bg.png') no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  width: 100%;
+  text-align: center;
+  padding-top: 100px;
+  padding-bottom: 0px;
+}
+a,
+a:hover,
+a:active,
+a:visited {
+  text-decoration: none;
+}
+a:hover {
+    text-decoration: none;
+}
+a:focus {
+  outline: 0px auto -webkit-focus-ring-color;
+  text-decoration: none;
+}
+.izee {
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 100px;
+    margin-left: auto;
+}
+.title-one {
+  font-size: 50px;
+  font-weight: 300;
+  color: #fff;
+  padding-top: 100px;
+}
+.text-one {
+  font-weight: 300;
+  color: #fff;
+  padding-top: 20px;
+  font-size: 30px;
+}
+.title-h1 {
+    text-align: center;
+    padding: 30px;
+    font-weight: 300;
+}
+.center {
+    text-align: center;
+}
+.medida {
+    width: 80%;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 90px;
+    margin-left: auto;
+}
+.mw-y {
+  margin-bottom: 50px;
+}
+a.go {
+    color: #000;
+}
+a.go:hover {
+    color: #EB0345;
+}
