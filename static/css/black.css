@@ -135,3 +135,24 @@ header {
 #successmsg {
     background-color: #0CD2A4;
 }
+
+.text-wk2 {
+    font-size: 20px;
+    text-align: center;
+    color: #000;
+    padding-top: 20px;
+    font-weight: 300;
+}
+
+.nav-tabs>li>a {
+    margin-right: 10px;
+    margin-bottom: 10px;
+    line-height: 1.42857143;
+    font-size: 23px;
+    border: 2px solid #0CD2A4;
+    color: #0CD2A4;
+    padding: 10px 20px;
+    font-weight: 300;
+    border-radius: 50px;
+    text-align: center;
+}
