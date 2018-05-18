@@ -69,6 +69,8 @@ textarea { height: 200px; }
 '''
 
 
+ADMIN_EMAIL = "wjduenow@gmail.com"
+
 class RequestHandler(webapp.RequestHandler):
     def get(self):
         if "sent" in self.request.arguments():
